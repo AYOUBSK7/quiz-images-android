@@ -13,4 +13,4 @@ TP Android : quiz de 5 questions illustrées (thème : formes géométriques).
 - `compte-rendu/` : compte rendu du TP
 
 ## Auteur
-Nom Prénom
+Boussoukaya Ayoub
