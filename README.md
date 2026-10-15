@@ -9,7 +9,7 @@ TP Android : quiz de 5 questions illustrées (thème : formes géométriques).
 
 ## Contenu du dépôt
 - `app/` : code Kotlin (`MainActivity.kt`), layout XML, images (drawable)
-- `captures/` : captures d'écran
+- `Capture/` : captures d'écran
 - `compte-rendu/` : compte rendu du TP
 
 ## Auteur
