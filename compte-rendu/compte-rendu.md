@@ -52,4 +52,4 @@ Les 5 questions sont déclarées dans un tableau `arrayOf(...)`. Chaque image (f
 
 ## 6. Captures d'écran
 
-Elles sont dans le dossier `captures/` : une question, une bonne réponse, une mauvaise réponse, l'écran final.
+Elles sont dans le dossier `Captures` : une question, une bonne réponse, une mauvaise réponse, l'écran final.
