@@ -1,6 +1,6 @@
 # Compte rendu : TP Android « Quiz en images »
 
-**Étudiant :** Ayoub BSK
+**Étudiant :** Ayoub Boussoukaya
 **Thème :** formes géométriques (triangle, carré, cercle, étoile, rectangle)
 **Dépôt :** https://github.com/AYOUBSK7/quiz-images-android
 
